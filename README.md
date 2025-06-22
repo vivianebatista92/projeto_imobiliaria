@@ -1,4 +1,9 @@
-# 🏘️ **Pandas: Conhecendo a Biblioteca — Projeto Imobiliário**
+# <div align="center"> Projeto Imobiliário - Pandas
+</div>
+
+<div align="center"><a target="_blank" href="https://colab.research.google.com/github/vivianebatista92/projeto_imobiliaria/blob/main/projeto_imobiliaria.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a></div>  
 
 > ℹ️ **NOTE:** Análise desenvolvida para a formação de Data Science do programa [ONE - Oracle Next Educacion](https://www.oracle.com/br/education/oracle-next-education/) realizada na plataforma [Alura](https://www.alura.com.br/).
 
