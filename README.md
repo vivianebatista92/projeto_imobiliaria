@@ -85,6 +85,11 @@ A base de dados utilizada contém informações sobre diversos tipos de imóveis
 - `descricao`: resumo contendo tipo do imóvel, bairro, número de quartos e vagas de garagem.
 - `possui_suite`: coluna indicando se o imóvel possui pelo menos uma suíte (sim/não).
 
----
 
+--
+#
 
+<p align="center">
+<img 
+    src="src/projetos_banner.gif"
+    >
